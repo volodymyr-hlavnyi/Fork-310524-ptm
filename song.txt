@@ -1,8 +1,14 @@
-sdfsalkfjlsfasdf
-sadfsldfj;\asdf
-sdafsadf;lkjkl
-asdfsd
-asdffasd
-asdfsd
-qwwpoiout
+test test
+test2
+
+В лесу родилась ёлочка,
+В лесу она росла,
+Зимой и летом стройная,
+Зелёная была.
+
+Метель ей пела песенку:
+«Спи, ёлочка, баю-бай!»
+Мороз снежком укутывал:
+«Смотри, не замерзай!»
+
 
